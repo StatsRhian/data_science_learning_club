@@ -12,7 +12,7 @@
 
 * [GGvis with interactive controls](http://ggvis.rstudio.com/interactivity.html#basic-interactive-controls)
 * [Slides with R markdown]()
-* [Reavel.js slides]()
+* [Reavel.js slides - Mike Croucher example](https://github.com/mikecroucher/MLPM_talk)
 
 ## Blogs
 
