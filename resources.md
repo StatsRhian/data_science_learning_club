@@ -42,6 +42,7 @@
 
 *  [Data Science Learning Directory](http://www.datasciguide.com/)
 *  [Open source data science masters](http://datasciencemasters.org/)
+*  [Learn Pandas links](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 
 ## Books
 
