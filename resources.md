@@ -6,7 +6,7 @@
 * Use Lancaster Parkrun data to set a projects for Lancaster Data Science meetup
 * Work through the Data science learning club activities using Python
 * Enter the Young statisticians writing competition (deadline May 29th)
-* Analysis of welsh language tweets
+* Analysis of Welsh language tweets
 
 ## Things I could learn
 
